@@ -1,6 +1,7 @@
 ### # Handling api using flutter 
 Using rick and morty api 
-https://rickandmortyapi.com/
+
+https://rickandmortyapi.com/documentation/
 
 **🎨# System Design**
 
