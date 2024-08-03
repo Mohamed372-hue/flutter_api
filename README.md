@@ -1,6 +1,6 @@
-# flutterexample
-
-A new Flutter project.
+# flutter_api
+Using rick and morty api 
+https://rickandmortyapi.com/
 
 ## Getting Started
 
