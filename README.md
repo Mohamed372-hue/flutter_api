@@ -1,6 +1,11 @@
-### # flutter_api
+### # Handling api using flutter 
 Using rick and morty api 
 https://rickandmortyapi.com/
+
+**🎨# System Design**
+
+![Screenshot 2024-08-03 8 49 00 PM](https://github.com/user-attachments/assets/a766ac11-c72e-4da5-a7bf-8bed34a4dffd)
+
 
 **🏠# Home Screens**
 
